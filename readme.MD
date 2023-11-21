@@ -1,4 +1,4 @@
-# Pthon Tornado Websocket Example
+# Python Tornado Websocket Example
 
 I have prepared a WebSocket example with the Python Tornado library. You can apply the installation commands and examine a mini chat application.
 
